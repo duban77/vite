@@ -1,0 +1,7 @@
+{
+  "appId": "com.dubansantiago.pokeapi",
+  "appName": "vitefirebase",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
+npx cap sync
